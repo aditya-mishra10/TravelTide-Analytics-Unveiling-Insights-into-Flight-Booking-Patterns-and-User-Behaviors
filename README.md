@@ -1,0 +1,2 @@
+# TravelTide-Analytics-Unveiling-Insights-into-Flight-Booking-Patterns-and-User-Behaviors
+TravelTide, a prominent online booking platform for travel and hotel accommodations. To optimize its services and enhance user experience, TravelTide seeks to gain deeper insights into its database through SQL analysis. This project aims to uncover valuable information regarding flight booking patterns and user behaviors using SQL queries.
